@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Find my complete CV [here](https://www.dropbox.com/s/xwcg3a6zdj0zzzl/CV_OsamaAslamAnsari.pdf?dl=0).
+Find my complete CV [here](https://www.dropbox.com/s/dtii0pltmbvuerw/CV_OsamaAnsari.pdf?dl=0).
