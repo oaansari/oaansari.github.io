@@ -9,8 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
 ### Journal Publications
 1. **O . A. Ansari**, and C. Y. Chung, "A hybrid framework for short-term risk assessment of wind-integrated composite power systems," *IEEE Transactions on Power Systems*, 2018. (Early Access)
 1. J. P. Zhan, **O . A. Ansari**, W. Liu, and C. Y. Chung, "A bilinear cavern model for compressed air energy storage", *Applied Energy*, 2019. (In Press)
