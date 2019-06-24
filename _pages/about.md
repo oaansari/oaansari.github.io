@@ -16,5 +16,5 @@ Research Interests
 * Power Systems Reliability and Security
 * Energy Storage Systems
 
-<img src='/images/SmartGrid.jpg'>
+<img src='/images/SmartGrid.JPG'>
 
