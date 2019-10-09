@@ -23,3 +23,9 @@ author_profile: true
 ### Thesis
 1. MSc. Thesis, "Compressed Air Energy Storage: Modeling and Applications for Sustainable Power Systems", Dec. 2017.
 University of Saskatchewan, SK, Canada.
+
+## Other Works
+1. ["Road to Prosperity in the Off-Grid Communities of Canada"](https://www.dropbox.com/s/e9qdjgzz5kltcl5/Policy%20Brief%20%28Osama%20Ansari%29.pdf?dl=0), *Policy Brief*.
+1. ["A comparative analysis of renewable energy policies in four Canadian Provinces"](https://www.dropbox.com/s/4wk5eitusy3huv5/Comparative%20Paper.pdf?dl=0), *Term Paper*
+
+
