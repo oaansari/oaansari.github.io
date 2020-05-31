@@ -12,7 +12,7 @@ author_profile: true
 ### Journal Publications
 1. **O . A. Ansari**, and C. Y. Chung, "[A hybrid framework for short-term risk assessment of wind-integrated composite power systems](https://www.dropbox.com/s/2yaeadp0r2j9a7v/ansari2019.pdf?dl=0)," *IEEE Transactions on Power Systems*, vol. 34, no. 3, pp. 2334-2344, May 2019.
 1. J. P. Zhan, **O . A. Ansari**, W. Liu, and C. Y. Chung, "[A bilinear cavern model for compressed air energy storage](https://www.sciencedirect.com/science/article/pii/S0306261919305094)", *Applied Energy*, vol. 245, pp. 752-768, May 2019.
-1. **O. A. Ansari**, Yuzhong Gong, W. Liu, and C. Y. Chung, "Data-driven operational risk assessment of wind-integrated power systems via mixture models and importance sampling," *Journal of Modern Power and Clean Energy* (in press).  
+1. **O. A. Ansari**, Yuzhong Gong, W. Liu, and C. Y. Chung, "Data-driven operation risk assessment of wind-integrated power systems via mixture models and importance sampling," *Journal of Modern Power and Clean Energy*, vol. 8, no. 3, pp. 437-445, May 2020.  
 
 ### Conference Publications
 1. **O. A. Ansari**, S. Bhattarai, R. Karki, and C. Y. Chung, "[Reliability evaluation of bulk power system conisdering compressed air energy storage](https://www.dropbox.com/s/cxo3i6jqx5p2pkp/ansari2017.pdf?dl=0)," in *2017 IEEE Electrical Power and Energy Conference (EPEC)*, Saskatoon, Oct. 2017. 
