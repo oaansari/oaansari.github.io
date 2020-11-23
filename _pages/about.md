@@ -16,7 +16,7 @@ Research Interests
 ======
 * Smart Grids
 * Power Systems Reliability and Security
-* Energy Storage Systems
+* AI for Power Systems
 
 <img src='/images/SmartGrid.JPG'>
 <img src='/images/Bus_Risks.png'>
