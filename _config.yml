@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Osama Aslam Ansari"
+title                    : "Osama A. Ansari"
 title_separator          : "-"
-name                     : &name "Osama Aslam Ansari"
+name                     : &name "Osama A. Ansari"
 description              : &description "personal description"
 url                      : https://oaansari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Osama Aslam Ansari"
+  name             : "Osama A. Ansari"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate, Smart Grids"
+  bio              : "Ph.D. Candidate"
   location         : "Saskatoon, SK, Canada"
   employer         :
   pubmed           : 
