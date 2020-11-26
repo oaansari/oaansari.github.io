@@ -15,6 +15,7 @@ I received my MSc. degree in electrical engineering from the University of Saska
 Research Interests
 ======
 * Smart Grids
+* Energy Storage Systems
 * Power Systems Reliability and Security
 * AI for Power Systems
 
