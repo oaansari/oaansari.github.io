@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Ph.D. degree in electrical engineering at the [University of Saskatchewan](https://www.usask.ca/), Canada, under the supervision of [Prof. C. Y. Chung](http://engineering.usask.ca/faculty-staff/ece/tony-c.y.-chung). 
+I am a Power Systems Engineer at [Powertech Labs Inc.](https://www.powertechlabs.com/), BC, Canada.
 
-I received my MSc. degree in electrical engineering from the University of Saskatchewan in 2017. I received my Bachelor in electrical engineering degree from the National University of Sciences and Technology, Islamabad, Pakistan in 2015.
+I received my Ph.D. and MSc. degree in electrical engineering from the University of Saskatchewan in 2021 and 2017, respectively. I worked in the Smart Grid and Energy Network (SMARTGEN) Lab at the University of Saskatchewan, under the supervision of Dr. C. Y. Chung. I received my Bachelor in electrical engineering degree from the National University of Sciences and Technology, Islamabad, Pakistan in 2015.
 
 Research Interests
 ======
