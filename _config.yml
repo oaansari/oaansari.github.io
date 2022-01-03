@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Osama A. Ansari"
 title_separator          : "-"
 name                     : &name "Osama A. Ansari"
-description              : &description "personal description"
+description              : &description "Ph.D. Power Systems and Smart Grids"
 url                      : https://oaansari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oaansari/oaansari.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Osama A. Ansari"
-  avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate"
-  location         : "Saskatoon, SK, Canada"
+  avatar           : "OsamaAnsari.jpeg"
+  bio              : "Power Systems Engineer"
+  location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=J2w2agYAAAAJ&hl=en"
