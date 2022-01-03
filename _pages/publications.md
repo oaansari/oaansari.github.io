@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 ### Journal Publications
+1. **O . A. Ansari**, C. Y. Chung, and E. Zio, "A novel framework for the operational reliability evaluation of integrated electric power–gas networks," *IEEE Transactions on Smart Grid*, vol. 12, no. 5, pp. 3901-3913, Sept. 2021.
 1. **O . A. Ansari**, and C. Y. Chung, "[A hybrid framework for short-term risk assessment of wind-integrated composite power systems](https://oaansari.com/files/ansari2018.pdf)," *IEEE Transactions on Power Systems*, vol. 34, no. 3, pp. 2334-2344, May 2019.
 1. J. P. Zhan, **O . A. Ansari**, W. Liu, and C. Y. Chung, "[A bilinear cavern model for compressed air energy storage](https://www.sciencedirect.com/science/article/pii/S0306261919305094)", *Applied Energy*, vol. 245, pp. 752-768, May 2019.
 1. **O. A. Ansari**, Yuzhong Gong, W. Liu, and C. Y. Chung, "[Data-driven operation risk assessment of wind-integrated power systems via mixture models and importance sampling](https://oaansari.com/files/ansari2019.pdf)," *Journal of Modern Power and Clean Energy*, vol. 8, no. 3, pp. 437-445, May 2020.  
