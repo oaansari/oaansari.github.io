@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Amazon Web Services.
+I am an Applied Scientist at Amazon.
 
 I received my Ph.D. and MSc. degree in electrical engineering from the University of Saskatchewan in 2021 and 2017, respectively. I worked in the Smart Grid and Energy Network (SMARTGEN) Lab at the University of Saskatchewan, under the supervision of Dr. C. Y. Chung. I received my Bachelor in electrical engineering degree from the National University of Sciences and Technology, Islamabad, Pakistan in 2015.
 
